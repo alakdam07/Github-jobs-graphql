@@ -61,7 +61,7 @@ yarn dev
 #### Npm
 
 ```bash
-npm run dev
+npm run server
 ```
 
 Graphiql is located at [http://localhost:3500/graphql](http://localhost:3500/graphql)
