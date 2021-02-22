@@ -55,7 +55,7 @@ npm run install
 #### Yarn
 
 ```bash
-yarn dev
+yarn server
 ```
 
 #### Npm
